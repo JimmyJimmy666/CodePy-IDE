@@ -1,0 +1,27 @@
+{
+    "MainWindow-Color": "#F0F0F0",
+    "MainWindow-TextEdit-FontColor": [
+        "#8A2BE2",
+        "#1E90FF",
+        "#CD853F",
+        "#20B2AA"
+    ],
+    "MainWindow-BorderRadius": 10,
+    "MainWindow-CommonFont": "Microsoft YaHei",
+    "MainWindow-FileTree": "QTreeWidget {background-color: #FFFFFF;border: 1.2px solid #E0E0E0;border-right: 1.2px solid #D0D0D0;outline: 0px;color: #333333;}QTreeWidget::item {height: 28px;color: #333333;padding-left: 0px;}QTreeWidget::item:hover {background-color: #F0F7FF;border-radius: 0px;outline: none;padding-left: 0px;color: #0066CC;}QTreeWidget::item:selected {border: 1.2px solid #1E90FF;background-color: #E6F0FF;color: #0066CC;border-radius: 0px;outline: none;padding-left: 0px;}QScrollBar:vertical {background-color: #F5F5F5;width: 12px;margin: 10px 0;}QScrollBar::handle:vertical {background-color: #D0D0D0;min-height: 35px;width: 12px;border-radius: 0px;}QScrollBar::handle:vertical:hover {background-color: #B0B0B0;}QScrollBar::handle:vertical:pressed {background-color: #909090;}QScrollBar::add-page:vertical,QScrollBar::sub-page:vertical {background: transparent;}QScrollBar::sub-line:vertical,QScrollBar::add-line:vertical {height: 0px;width: 0px;}QTreeWidget::branch {color: #333333;}",
+    "MainWindow-TopMenu-CloseButton": "QWidget {border-top-left-radius: 0px;border-top-right-radius: 10px;border-bottom-left-radius: 0px;border-bottom-right-radius: 0px;}QPushButton {background-color: #F5F5F5;color: #444444;}QPushButton:hover {background-color: #FFEBEE;}QPushButton:pressed {background-color: #FFCDD2;}",
+    "MainWindow-TopMenu-MaximizeButton": "QWidget {border-radius: 0px;}QPushButton {background-color: #F5F5F5;color: #444444;}QPushButton:hover {background-color: #EDF7ED;}QPushButton:pressed {background-color: #D0E8D0;}",
+    "MainWindow-TopMenu-MinimizeButton": "QWidget {border-radius: 0px;}QPushButton {background-color: #F5F5F5;color: #444444;}QPushButton:hover {background-color: #E3F2FD;}QPushButton:pressed {background-color: #BBDEFB;}",
+    "MainWindow-TopMenu-FileButton": "QWidget {border-radius: 8px;}QPushButton {background-color: #F5F5F5;color: #444444;}QPushButton:hover {background-color: #E3F2FD;}QPushButton:pressed {background-color: #BBDEFB;}",
+    "MainWindow-TopMenu-FileButtonMenu": "#ButtonMenu { border: 1.2px solid #D0D0D0; background-color: #FFFFFF; border-radius: 6px;}",
+    "MainWindow-TopMenu-FileButtonMenu-OpenProject": "QWidget {border-radius: 6px;}QPushButton {background-color: #FFFFFF;color: #444444;text-align: left; padding-left: 35px;}QPushButton:hover {background-color: #E3F2FD;}QPushButton:pressed {background-color: #BBDEFB;}",
+    "MainWindow-TopMenu-FileButtonMenu-ImportThemeConfig": "QWidget {border-radius: 6px;}QPushButton {background-color: #FFFFFF;color: #444444;text-align: left; padding-left: 35px;}QPushButton:hover {background-color: #E3F2FD;}QPushButton:pressed {background-color: #BBDEFB;}",
+    "MainWindow-TextEdit": "QPlainTextEdit {background-color: #FFFFFF;border-radius: 0px;color: #333333;}QScrollBar:vertical {background-color: #F5F5F5;width: 12px;margin: 10px 0;}QScrollBar::handle:vertical {background-color: #D0D0D0;min-height: 35px;width: 12px;border-radius: 0px;}QScrollBar::handle:vertical:hover {background-color: #B0B0B0;}QScrollBar::handle:vertical:pressed {background-color: #909090;}QScrollBar::add-page:vertical,QScrollBar::sub-page:vertical {background: transparent;}QScrollBar::sub-line:vertical,QScrollBar::add-line:vertical {height: 0px;width: 0px;}",
+    "MainWindow-TopMenu": "#topMenu {background-color: #FFFFFF;border-top-left-radius: 10px;border-top-right-radius: 10px;border-bottom-left-radius: 0px;border-bottom-right-radius: 0px;border-bottom: 1.2px solid #E0E0E0;}",
+    "MainWindow-TopMenu-Maximized": "#topMenu {background-color: #FFFFFF;border-radius: 0px;border-bottom: 1.2px solid #E0E0E0;}",
+    "MainWindow-LeftMenu": "#leftMenu {background-color: #FFFFFF;border-radius: 0px;border-right: 1.2px solid #E0E0E0;}",
+    "MainWindow-LeftMenu-Maximized": "#leftMenu {background-color: #FFFFFF;border-radius: 0px;border-right: 1.2px solid #E0E0E0;}",
+    "MainWindow-BottomMenu": "#bottomMenu {background-color: #FFFFFF;border-top-left-radius: 0px;border-top-right-radius: 0px;border-bottom-left-radius: 10px;border-bottom-right-radius: 10px;border-top: 1.2px solid #E0E0E0;}",
+    "MainWindow-BottomMenu-Maximized": "#bottomMenu {background-color: #FFFFFF;border-radius: 0px;border-top: 1.2px solid #E0E0E0;}",
+    "MainWindow-TopMenu-CloseButton-Maximized": "QWidget {border-radius: 0px;}QPushButton {background-color: #FFFFFF;color: #444444;}QPushButton:hover {background-color: #FFEBEE;}QPushButton:pressed {background-color: #FFCDD2;}"
+}
